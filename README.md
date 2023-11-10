@@ -1,0 +1,2 @@
+# salam
+Git konfiqurasiyasi
